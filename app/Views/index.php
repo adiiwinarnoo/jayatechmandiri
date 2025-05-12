@@ -11,11 +11,8 @@
     <link href="<?= base_url('assets-compro') ?>/img/icon_jaya_tech.png" rel="icon">
     <link href="<?= base_url('assets-compro') ?>/img/apple-touch-icon.png" rel="apple-touch-icon">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
-
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700" rel="stylesheet">
-
     <link href="assets-compro/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
     <link href="assets-compro/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets-compro/lib/animate/animate.min.css" rel="stylesheet">
     <link href="assets-compro/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
